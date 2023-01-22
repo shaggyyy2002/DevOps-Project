@@ -1,0 +1,1 @@
+<img src="Structure.png" alt="DevOps Picture">
